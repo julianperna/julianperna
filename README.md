@@ -24,6 +24,14 @@
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/></a> JavaScript</code>
   <code><a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123878579-b50cfd00-d915-11eb-9e09-e12112eef64a.png" alt="bootstrap" height="30"/></a> Bootstrap</code>
     <code><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="30"/></a> React</code>
+
+<h3> > Herramientas: </h3>
+
+<p align="center">
+  
+  <code><a href="https://www.coreldraw.com/" target="_blank"> <img src="http://3.bp.blogspot.com/-X9quyToD8jo/VeR1h_gH8EI/AAAAAAAAA3o/RpSj502a7gM/s1600/Logo%2Bde%2BCorelDRAW%2BX7.png" alt="corel" height="30"/></a> Corel Draw</code>
+  <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123881587-6b271580-d91b-11eb-9559-ed8ec2a6a40f.png" alt="Canva" height="30"/></a> Canva</code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123881916-0b7d3a00-d91c-11eb-8c94-e19c44335b3d.png" alt="Visual Code" height="30"/></a> Visual Studio Code</code>
  
 
 
