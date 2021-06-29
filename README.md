@@ -10,6 +10,7 @@
   <code><a href="https://www.linkedin.com/in/juli%C3%A1n-perna-5b7508136/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
   <code><a href="https://drive.google.com/drive/folders/1cHwMijB0wklKDlfWrvswjtZUIsFN-RQE?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:julian_ep1@hotmail.com" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
+  <code><a href="https://julianperna.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123880220-93614500-d918-11eb-8109-d1fa8bb25cc4.png" alt="Portafolio" height="30"/></a></code>
   
 </p>
 
@@ -18,7 +19,7 @@
 
 <p align="center">
   
-  <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> HTML</code>
+  <code><a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> HTML</code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html5" height="30"/></a> CSS</code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/></a> JavaScript</code>
   <code><a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123878579-b50cfd00-d915-11eb-9e09-e12112eef64a.png" alt="bootstrap" height="30"/></a> Bootstrap</code>
