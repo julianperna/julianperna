@@ -8,7 +8,7 @@
 <h3> > Donde encontrarme: </h3>
 <p align="center">
   <code><a href="https://www.linkedin.com/in/juli%C3%A1n-perna-5b7508136/" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/drive/folders/1cHwMijB0wklKDlfWrvswjtZUIsFN-RQE?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1zfJYxFEEU1TKxsfFAiDn6B4Y2OIl86IC/view?usp=sharing" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:julian_ep1@hotmail.com" target="_blank"> <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621291618/Proyects/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
   <code><a href="https://julianperna.netlify.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123880220-93614500-d918-11eb-8109-d1fa8bb25cc4.png" alt="Portafolio" height="30"/></a></code>
   
