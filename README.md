@@ -2,7 +2,7 @@
 <div  align="center">
   <h2 >¡Hola! soy  Julián Perna 👋👨‍💻
   <hr>
-  <img src="images/juliánperna.png" alt=" Julián Perna Header">
+  <img src="images/banner.png" alt=" Julián Perna Header">
   <br>
 <h3> Soy Desarrollador Web Frontend, con una gran motivación para aprender nuevas tecnologías y mejorar mis conocimientos siempre buscando la superación personal.</h3>
 <h3> > Donde encontrarme: </h3>
