@@ -2,8 +2,8 @@
 <div  align="center">
   <h2 >¡Hola! soy  Julián Perna 👋👨‍💻
   <hr>
-  <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2juvZoQ3oLa4U"></a></p>
   <br>
+  <img src="https://i.imgur.com/5A22MNp.gif" alt="julian perna header">
 <h3> Soy Desarrollador Web Frontend, con una gran motivación para aprender nuevas tecnologías y mejorar mis conocimientos siempre buscando la superación personal.</h3>
 <h3> > Donde encontrarme: </h3>
 <p align="center">
