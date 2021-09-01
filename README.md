@@ -31,7 +31,7 @@
   
   <code><a href="https://www.coreldraw.com/" target="_blank"> <img src="http://3.bp.blogspot.com/-X9quyToD8jo/VeR1h_gH8EI/AAAAAAAAA3o/RpSj502a7gM/s1600/Logo%2Bde%2BCorelDRAW%2BX7.png" alt="corel" height="30"/></a> Corel Draw</code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123882431-2ef4b480-d91d-11eb-9908-afa96dea12ee.png" alt="Canva" height="30"/></a> Canva</code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/123882303-e3daa180-d91c-11eb-9aa4-c9b893d8f98d.png" alt="Visual Code" height="30"/></a> Visual Studio Code</code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/70858276/131715130-5b775dc4-da27-4059-85a2-9d29a7a0d7e0.png" alt="Visual Code" height="30"/></a> Visual Studio Code</code>
  
 
 
